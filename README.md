@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Murilo Alves</h1>
-<h3 align="center">A ambicious full-stack developer from Brazil.</h3>
+<h3 align="center">An ambicious full-stack developer from Brazil.</h3>
 
 - I’m currently learning **Nest, Prisma ORM and Jest**
 
