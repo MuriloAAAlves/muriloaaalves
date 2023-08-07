@@ -1,4 +1,4 @@
-<img src="![image](https://github.com/MuriloAAAlves/muriloaaalves/assets/96299545/8c4f94e7-a386-4cd8-9fa1-6402ffe8f692)
+<img src="![image](https://github.com/MuriloAAAlves/muriloaaalves/assets/96299545/ce4447e8-c8f4-4d72-8fbc-22834cd54edb)
 "></img>
 
 <h1 align="center">Hi, I'm Murilo Alves</h1>
