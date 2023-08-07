@@ -1,8 +1,9 @@
-<img src="![image](https://github.com/MuriloAAAlves/muriloaaalves/assets/96299545/d4258b4d-443f-49dd-b2ea-fe683a4b8846)
-"></img>
+
+![Powder-Monkey-Legends-of-Runeterra-LOR](https://github.com/MuriloAAAlves/muriloaaalves/assets/96299545/3517ae08-1195-433a-b169-5befa83816d2)
 
 <h1 align="center">Hi, I'm Murilo Alves</h1>
 <h3 align="center">An ambicious full-stack developer from Brazil.</h3>
+
 
 - I’m currently learning **Nest, Prisma ORM, Type ORM and Jest**
 
