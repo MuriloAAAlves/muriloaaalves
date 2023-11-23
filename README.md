@@ -1,6 +1,3 @@
-
-![Powder-Monkey-Legends-of-Runeterra-LOR](https://github.com/MuriloAAAlves/muriloaaalves/assets/96299545/3517ae08-1195-433a-b169-5befa83816d2)
-
 <h1 align="center">Hi, I'm Murilo Alves</h1>
 <h3 align="center">An ambicious full-stack developer from Brazil.</h3>
 
